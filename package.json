@@ -13,5 +13,9 @@
     "fuse-box": "^1.3.126",
     "tslint": "^4.5.1",
     "typescript": "^2.2.1"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.10",
+    "robotlegs": "^1.0.0-alpha.14"
   }
 }

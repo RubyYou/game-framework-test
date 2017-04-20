@@ -6,7 +6,8 @@ const fuse = FuseBox.init({
     homeDir: "src",
     globals: { default: "build"},
     outFile: "build/bundle.js",
-    sourceMaps: true
+    sourceMaps: true,
+    modulesFolder: "node_modules",
 });
 
 fuse.devServer("> app.ts");

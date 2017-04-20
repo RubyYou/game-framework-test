@@ -5,9 +5,15 @@
         "removeComments": true,
         "strictNullChecks": true,
         "preserveConstEnums": true,
-        "sourceMap": true
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
     },
     "include": [
         "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
     ]
 }
