@@ -1,5 +1,3 @@
-TypeScript 101 Training Pack
+Typescript testing for game
 
-Welcome to the classes
-
-Run node fusebox.js to setup the dev environment.
+- add wish list on whatever you want :)
