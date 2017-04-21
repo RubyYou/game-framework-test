@@ -1,5 +1,6 @@
 node_modules/*
-build/*
+build/bundle.js
+build/bundle.js.map
 .fusebox/*
 .idea/*
 npm-debug.log
